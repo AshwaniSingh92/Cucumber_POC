@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="17" failures="0" name="com.bdd.MavenProjectCucumber.TestCukeRunner" time="0.012" errors="0" skipped="0">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="JOB_NAME" value="CuCumber_Run"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="NUMBER_OF_PROCESSORS" value="4"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="JENKINS_HOME" value="C:\Users\Ashwani\.jenkins"/>
+    <property name="HUDSON_SERVER_COOKIE" value="d4069b723bf590dc"/>
+    <property name="POM_ARTIFACTID" value="cucumber"/>
+    <property name="os.name" value="Windows 8.1"/>
+    <property name="sun.boot.class.path" value="C:\Program Files (x86)\Java\jdk1.8.0_60\jre\lib\resources.jar;C:\Program Files (x86)\Java\jdk1.8.0_60\jre\lib\rt.jar;C:\Program Files (x86)\Java\jdk1.8.0_60\jre\lib\sunrsasign.jar;C:\Program Files (x86)\Java\jdk1.8.0_60\jre\lib\jsse.jar;C:\Program Files (x86)\Java\jdk1.8.0_60\jre\lib\jce.jar;C:\Program Files (x86)\Java\jdk1.8.0_60\jre\lib\charsets.jar;C:\Program Files (x86)\Java\jdk1.8.0_60\jre\lib\jfr.jar;C:\Program Files (x86)\Java\jdk1.8.0_60\jre\classes"/>
+    <property name="EXECUTOR_NUMBER" value="1"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="POM_DISPLAYNAME" value="cucumber"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="TEMP" value="C:\Users\Ashwani\AppData\Local\Temp"/>
+    <property name="java.runtime.version" value="1.8.0_60-b27"/>
+    <property name="user.name" value="Ashwani"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="TESSDATA_PREFIX" value="C:\Users\Ashwani\Desktop\Tesseract-OCR\"/>
+    <property name="user.language" value="en"/>
+    <property name="JOB_BASE_NAME" value="CuCumber_Run"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://unconfigured-jenkins-location/job/CuCumber_Run/13/display/redirect?page=changes"/>
+    <property name="M2" value="%M2_HOME%\bin"/>
+    <property name="BUILD_DISPLAY_NAME" value="#13"/>
+    <property name="sun.boot.library.path" value="C:\Program Files (x86)\Java\jdk1.8.0_60\jre\bin"/>
+    <property name="LOCALAPPDATA" value="C:\Users\Ashwani\AppData\Local"/>
+    <property name="java.version" value="1.8.0_60"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="USERNAME" value="Ashwani"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="AXIS2_HOME" value="C:\Artefacts\axis2-1.7.5"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files (x86)\Java\jdk1.8.0_60\jre\lib\endorsed"/>
+    <property name="BUILD_ID" value="13"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="=::" value="::\"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="user.country" value="US"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files (x86)\Java\jdk1.8.0_60\jre"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="os.version" value="6.3"/>
+    <property name="RUN_DISPLAY_URL" value="http://unconfigured-jenkins-location/job/CuCumber_Run/13/display/redirect"/>
+    <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
+    <property name="TMP" value="C:\Users\Ashwani\AppData\Local\Temp"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.version" value="25.60-b23"/>
+    <property name="user.variant" value=""/>
+    <property name="JOB_DISPLAY_URL" value="http://unconfigured-jenkins-location/job/CuCumber_Run/display/redirect"/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="USERDOMAIN_ROAMINGPROFILE" value="DMS"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="FP_NO_HOST_CHECK" value="NO"/>
+    <property name="JAVA_HOME" value="C:\Program Files (x86)\Java\jdk1.8.0_60"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="ComSpec" value="C:\Windows\system32\cmd.exe"/>
+    <property name="HOMEPATH" value="\Users\Ashwani"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="asl.log" value="Destination=file"/>
+    <property name="user.script" value=""/>
+    <property name="COMPUTERNAME" value="DMS"/>
+    <property name="POM_GROUPID" value="com.BDD"/>
+    <property name="VBOX_MSI_INSTALL_PATH" value="C:\Program Files\Oracle\VirtualBox\"/>
+    <property name="user.home" value="C:\Users\Ashwani"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="BUILD_TAG" value="jenkins-CuCumber_Run-13"/>
+    <property name="JENKINS_SERVER_COOKIE" value="d4069b723bf590dc"/>
+    <property name="=E:" value="E:\Jenkins"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="USERPROFILE" value="C:\Users\Ashwani"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="java.library.path" value="C:\Program Files (x86)\Java\jdk1.8.0_60\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Java\apache-maven-3.3.9/bin;C:\Program Files (x86)\Java\jdk1.8.0_60/bin;C:\Program Files (x86)\Java\jdk1.8.0_60/bin;C:\ProgramData\Oracle\Java\javapath;E:\app\Ashwani\product\12.1.0\dbhome_1\bin;E:\app\DMS\product\12.1.0\dbhome_1\bin;C:\Program Files (x86)\Java\jdk1.8.0_60\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Java\jre1.8.0_60\bin;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\Java\apache-maven-3.3.9\bin;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\Users\Ashwani\AppData\Roaming\npm;."/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="APPDATA" value="C:\Users\Ashwani\AppData\Roaming"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="maven.home" value="C:\Program Files (x86)\Java\apache-maven-3.3.9"/>
+    <property name="java.class.path" value="C:\Users\Ashwani\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven33-agent-1.8.1.jar;C:\Program Files (x86)\Java\apache-maven-3.3.9\boot\plexus-classworlds-2.5.2.jar;C:\Program Files (x86)\Java\apache-maven-3.3.9/conf/logging"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven33Main C:\Program Files (x86)\Java\apache-maven-3.3.9 C:\Users\Ashwani\.jenkins\war\WEB-INF\lib\remoting-3.7.jar C:\Users\Ashwani\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven33-interceptor-1.8.1.jar C:\Users\Ashwani\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.8.1.jar 53767"/>
+    <property name="Path" value="C:\Program Files (x86)\Java\jdk1.8.0_60/bin;C:\ProgramData\Oracle\Java\javapath;E:\app\Ashwani\product\12.1.0\dbhome_1\bin;E:\app\DMS\product\12.1.0\dbhome_1\bin;C:\Program Files (x86)\Java\jdk1.8.0_60\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Java\jre1.8.0_60\bin;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\Java\apache-maven-3.3.9\bin;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\Users\Ashwani\AppData\Roaming\npm"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="PATH+JDK" value="C:\Program Files (x86)\Java\jdk1.8.0_60/bin"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 61 Stepping 4, GenuineIntel"/>
+    <property name="SESSIONNAME" value="Console"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="M2_HOME" value="C:\Program Files (x86)\Java\apache-maven-3.3.9"/>
+    <property name="java.io.tmpdir" value="C:\Users\Ashwani\AppData\Local\Temp\"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="HUDSON_HOME" value="C:\Users\Ashwani\.jenkins"/>
+    <property name="PATH+MAVEN" value="C:\Program Files (x86)\Java\apache-maven-3.3.9/bin"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="SystemRoot" value="C:\Windows"/>
+    <property name="java.ext.dirs" value="C:\Program Files (x86)\Java\jdk1.8.0_60\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="user.dir" value="C:\workspace\cucumber"/>
+    <property name="LOGONSERVER" value="\\DMS"/>
+    <property name="USERDOMAIN" value="DMS"/>
+    <property name="line.separator" value="
+"/>
+    <property name="MAVEN_HOME" value="C:\Program Files (x86)\Java\apache-maven-3.3.9"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="13"/>
+    <property name="PROCESSOR_REVISION" value="3d04"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="windir" value="C:\Windows"/>
+    <property name="=C:" value="C:\Windows\System32"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="maven3.interceptor" value="C:\Users\Ashwani\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven33-interceptor-1.8.1.jar"/>
+    <property name="WORKSPACE" value="C:\Users\Ashwani\.jenkins\workspace\CuCumber_Run"/>
+    <property name="maven3.interceptor.common" value="C:\Users\Ashwani\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.8.1.jar"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="PSModulePath" value="C:\Windows\system32\WindowsPowerShell\v1.0\Modules\"/>
+  </properties>
+  <testcase classname="| &quot;https://www.cleartrip.com/&quot; | &quot;chrome&quot; | Pass | &quot;Goa&quot; | &quot;Hyderabad&quot; |" name="Given I want to load the browser &quot;chrome&quot;" time="0.006"/>
+  <testcase classname="| &quot;https://www.cleartrip.com/&quot; | &quot;chrome&quot; | Pass | &quot;Goa&quot; | &quot;Hyderabad&quot; |" name="When I enter the url &quot;https://www.cleartrip.com/&quot; in step" time="0.001"/>
+  <testcase classname="| &quot;https://www.cleartrip.com/&quot; | &quot;chrome&quot; | Pass | &quot;Goa&quot; | &quot;Hyderabad&quot; |" name="Then I verify the the Pass in step with the loaded url" time="0"/>
+  <testcase classname="| &quot;https://www.cleartrip.com/&quot; | &quot;chrome&quot; | Pass | &quot;Goa&quot; | &quot;Hyderabad&quot; |" name="Then I start my journey from city &quot;Goa&quot; to City &quot;Hyderabad&quot;" time="0"/>
+  <testcase classname="| &quot;https://www.cleartrip.com/&quot; | &quot;chrome&quot; | Pass | &quot;Goa&quot; | &quot;Hyderabad&quot; |" name="Then I click Enter the date" time="0.001"/>
+  <testcase classname="| &quot;https://www.cleartrip.com/&quot; | &quot;chrome&quot; | Pass | &quot;Goa&quot; | &quot;Hyderabad&quot; |" name="Then I click the search button" time="0"/>
+  <testcase classname="| &quot;https://www.cleartrip.com/&quot; | &quot;chrome&quot; | Pass | &quot;Goa&quot; | &quot;Hyderabad&quot; |" name="| &quot;https://www.cleartrip.com/&quot; | &quot;chrome&quot; | Pass | &quot;Goa&quot; | &quot;Hyderabad&quot; |" time="0.001"/>
+  <testcase classname="Scenario: Search for flights on cleartrip.com" name="Given I want to populate FlightRates" time="0"/>
+  <testcase classname="Scenario: Search for flights on cleartrip.com" name="When the fare seems high" time="0.001"/>
+  <testcase classname="Scenario: Search for flights on cleartrip.com" name="Then I close the fare alert" time="0"/>
+  <testcase classname="Scenario: Search for flights on cleartrip.com" name="Scenario: Search for flights on cleartrip.com" time="0.001"/>
+  <testcase classname="| jhs7845@a3juhtbcc.com | 7845877849 |" name="Given I start looking at the page" time="0"/>
+  <testcase classname="| jhs7845@a3juhtbcc.com | 7845877849 |" name="When I directly click on the setalert button" time="0.001"/>
+  <testcase classname="| jhs7845@a3juhtbcc.com | 7845877849 |" name="Then I verify that it asks me for entering the emailid" time="0"/>
+  <testcase classname="| jhs7845@a3juhtbcc.com | 7845877849 |" name="Then I enter the email idjhs7845@a3juhtbcc.com and phone number7845877849" time="0"/>
+  <testcase classname="| jhs7845@a3juhtbcc.com | 7845877849 |" name="Then I confirm the alert is set with jhs7845@a3juhtbcc.com and 7845877849" time="0"/>
+  <testcase classname="| jhs7845@a3juhtbcc.com | 7845877849 |" name="| jhs7845@a3juhtbcc.com | 7845877849 |" time="0"/>
+</testsuite>

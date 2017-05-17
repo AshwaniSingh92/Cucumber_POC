@@ -1,0 +1,32 @@
+[INFO] : 2017-05-17 16:19:29,799 : com.bdd.MavenProjectCucumber.AppTest :################### New Session Initiated #########################
+[INFO] : 2017-05-17 16:19:29,801 : com.bdd.MavenProjectCucumber.AppTest :Browser Initiated
+[INFO] : 2017-05-17 16:19:29,805 : com.bdd.MavenProjectCucumber.AppTest :Navigating to Cleartrip
+[INFO] : 2017-05-17 16:19:34,844 : com.bdd.MavenProjectCucumber.AppTest :Login Successful
+[INFO] : 2017-05-17 16:19:34,892 : com.bdd.MavenProjectCucumber.AppTest :Entering Boarding Point 
+[INFO] : 2017-05-17 16:19:38,375 : com.bdd.MavenProjectCucumber.AppTest :Entering Destination Point
+[INFO] : 2017-05-17 16:19:41,399 : com.bdd.MavenProjectCucumber.AppTest :Entering Date
+[INFO] : 2017-05-17 16:19:47,628 : com.bdd.MavenProjectCucumber.AppTest :Selecting Adult Passengers
+[INFO] : 2017-05-17 16:19:50,827 : com.bdd.MavenProjectCucumber.AppTest :Clicking  Search
+[INFO] : 2017-05-17 16:19:56,427 : com.bdd.MavenProjectCucumber.AppTest :Populating Flight rates
+[INFO] : 2017-05-17 16:20:00,501 : com.bdd.MavenProjectCucumber.AppTest :Flight rates Populated
+[INFO] : 2017-05-17 16:20:00,502 : com.bdd.MavenProjectCucumber.AppTest :Navigating to Fare Alert
+[INFO] : 2017-05-17 16:20:05,164 : com.bdd.MavenProjectCucumber.AppTest :Attempting to close Frame
+[INFO] : 2017-05-17 16:20:08,281 : com.bdd.MavenProjectCucumber.AppTest :Closing frame ended in exception retrying to Close Frame
+[INFO] : 2017-05-17 16:20:08,396 : com.bdd.MavenProjectCucumber.AppTest :Frame closed 
+[INFO] : 2017-05-17 16:20:11,452 : com.bdd.MavenProjectCucumber.AppTest :Reopening the Fare Click
+[INFO] : 2017-05-17 16:20:11,957 : com.bdd.MavenProjectCucumber.AppTest :Clicked on Setting up Fare
+[INFO] : 2017-05-17 16:20:14,958 : com.bdd.MavenProjectCucumber.AppTest :Switched to frame
+[INFO] : 2017-05-17 16:20:15,013 : com.bdd.MavenProjectCucumber.AppTest :Clicking on Set Alert
+[INFO] : 2017-05-17 16:20:18,269 : com.bdd.MavenProjectCucumber.AppTest :Asserting email is required
+[INFO] : 2017-05-17 16:20:21,336 : com.bdd.MavenProjectCucumber.AppTest :Entering Email ID
+[INFO] : 2017-05-17 16:20:24,679 : com.bdd.MavenProjectCucumber.AppTest :Entering Phone Number
+[INFO] : 2017-05-17 16:20:27,863 : com.bdd.MavenProjectCucumber.AppTest :Clicking on SetAlert
+[INFO] : 2017-05-17 16:20:31,073 : com.bdd.MavenProjectCucumber.AppTest :Confirmation Message:Great, we've set your alert
+[INFO] : 2017-05-17 16:20:34,074 : com.bdd.MavenProjectCucumber.AppTest :Asserting EmailID
+[INFO] : 2017-05-17 16:20:34,172 : com.bdd.MavenProjectCucumber.AppTest :Entered Mail ID:jhs7845@a3juhtbcc.com: Received Mail Id From Frame:jhs7845@a3juhtbcc.com
+[INFO] : 2017-05-17 16:20:34,172 : com.bdd.MavenProjectCucumber.AppTest :Asserting Phone Num
+[INFO] : 2017-05-17 16:20:37,294 : com.bdd.MavenProjectCucumber.AppTest :Entered Phone:7845877849: Received Phone number:7845877849
+[INFO] : 2017-05-17 16:20:37,295 : com.bdd.MavenProjectCucumber.AppTest :Alert Set Successfully
+[INFO] : 2017-05-17 16:20:40,295 : com.bdd.MavenProjectCucumber.AppTest :Closing the Frame
+[INFO] : 2017-05-17 16:20:43,460 : com.bdd.MavenProjectCucumber.AppTest :Switching to Parent Frame
+[INFO] : 2017-05-17 16:20:43,464 : com.bdd.MavenProjectCucumber.AppTest :Quitting Driver
